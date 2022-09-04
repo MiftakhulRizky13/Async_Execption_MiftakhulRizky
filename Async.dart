@@ -1,4 +1,4 @@
-//Mifatkhul Rizky
+//Miftakhul Rizky
 void main() async {
   print(
       "=======================================\n    Program Ketersidaan Kamar Kos\n=======================================");
